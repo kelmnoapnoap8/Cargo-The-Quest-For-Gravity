@@ -226,4 +226,4 @@ Cargo! The Quest for Gravity is the **full free version** of the game, with **al
 **Download Cargo! The Quest for Gravity now and embark on an unforgettable adventure!**
 
 ---
-**Last updated:** 2026-11-13 06:01:40 UTC
+**Last updated:** 2026-11-13 15:14:08 UTC
